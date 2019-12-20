@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "category": {
+        "parent": {},
+        "name": "Comida para perro",
+        "icon": "",
+        "color": ""
+      },
+      "subcategory": {},
+      "unit_measure": {},
+      "code": "1",
+      "name": "Royal Canin Perro Adulto",
+      "product_type": "Producto",
+      "show_stock": true,
+      "min_stock": 0,
+      "default_for_tenant": true
+    },
+    {
+        "category": {
+          "parent": {},
+          "name": "Comida para perro",
+          "icon": "",
+          "color": ""
+        },
+        "subcategory": {},
+        "unit_measure": {},
+        "code": "2",
+        "name": "Royal Canin Perro Cachorro",
+        "product_type": "Producto",
+        "show_stock": true,
+        "min_stock": 0,
+        "default_for_tenant": true
+      },
+      {
+        "category": {
+          "parent": {},
+          "name": "Comida para perro",
+          "icon": "",
+          "color": ""
+        },
+        "subcategory": {},
+        "unit_measure": {},
+        "code": "3",
+        "name": "Royal Canin Perro Senior",
+        "product_type": "Producto",
+        "show_stock": true,
+        "min_stock": 0,
+        "default_for_tenant": true
+      },
+      {
+        "category": {
+          "parent": {},
+          "name": "Comida para gato",
+          "icon": "",
+          "color": ""
+        },
+        "subcategory": {},
+        "unit_measure": {},
+        "code": "4",
+        "name": "Royal Canin Gato Adulto",
+        "product_type": "Producto",
+        "show_stock": true,
+        "min_stock": 0,
+        "default_for_tenant": true
+      },
+      {
+        "category": {
+          "parent": {},
+          "name": "Comida para gato",
+          "icon": "",
+          "color": ""
+        },
+        "subcategory": {},
+        "unit_measure": {},
+        "code": "5",
+        "name": "Royal Canin GAto Cachorro",
+        "product_type": "Producto",
+        "show_stock": true,
+        "min_stock": 0,
+        "default_for_tenant": true
+      }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
