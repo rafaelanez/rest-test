@@ -1,85 +1,134 @@
 {
-  "products": [
+  "stock": [
     {
-      "category": {
-        "parent": {},
-        "name": "Comida para perro",
-        "icon": "",
-        "color": ""
+      "id": 202257,
+      "warehouse": {
+        "id": 9797,
+        "name": "Santa Cruz"
       },
-      "subcategory": {},
-      "unit_measure": {},
-      "code": "1",
-      "name": "Royal Canin Perro Adulto",
-      "product_type": "Producto",
-      "show_stock": true,
-      "min_stock": 0,
-      "default_for_tenant": true
+      "product": {
+        "id": 243744,
+        "code": "ArGatHK-12kg",
+        "name": "Arena para gato Hello Kitty 12kg",
+        "for_sale": true,
+        "for_purchase": true,
+        "show_stock": true,
+        "min_stock": "5.0000"
+      },
+      "qty": "7.0000"
     },
     {
-        "category": {
-          "parent": {},
-          "name": "Comida para perro",
-          "icon": "",
-          "color": ""
-        },
-        "subcategory": {},
-        "unit_measure": {},
-        "code": "2",
-        "name": "Royal Canin Perro Cachorro",
-        "product_type": "Producto",
-        "show_stock": true,
-        "min_stock": 0,
-        "default_for_tenant": true
+      "id": 202256,
+      "warehouse": {
+        "id": 9798,
+        "name": "Cochabamba"
       },
-      {
-        "category": {
-          "parent": {},
-          "name": "Comida para perro",
-          "icon": "",
-          "color": ""
-        },
-        "subcategory": {},
-        "unit_measure": {},
-        "code": "3",
-        "name": "Royal Canin Perro Senior",
-        "product_type": "Producto",
+      "product": {
+        "id": 243743,
+        "code": "MatGat-3kg",
+        "name": "Mattisse Gatito 3kg",
+        "for_sale": true,
+        "for_purchase": true,
         "show_stock": true,
-        "min_stock": 0,
-        "default_for_tenant": true
+        "min_stock": "5.0000"
       },
-      {
-        "category": {
-          "parent": {},
-          "name": "Comida para gato",
-          "icon": "",
-          "color": ""
-        },
-        "subcategory": {},
-        "unit_measure": {},
-        "code": "4",
-        "name": "Royal Canin Gato Adulto",
-        "product_type": "Producto",
-        "show_stock": true,
-        "min_stock": 0,
-        "default_for_tenant": true
+      "qty": "14.0000"
+    },
+    {
+      "id": 202255,
+      "warehouse": {
+        "id": 9797,
+        "name": "Santa Cruz"
       },
-      {
-        "category": {
-          "parent": {},
-          "name": "Comida para gato",
-          "icon": "",
-          "color": ""
-        },
-        "subcategory": {},
-        "unit_measure": {},
-        "code": "5",
-        "name": "Royal Canin GAto Cachorro",
-        "product_type": "Producto",
+      "product": {
+        "id": 243742,
+        "code": "BCan-20kg",
+        "name": "Belcan 20kg",
+        "for_sale": true,
+        "for_purchase": true,
         "show_stock": true,
-        "min_stock": 0,
-        "default_for_tenant": true
-      }
+        "min_stock": "5.0000"
+      },
+      "qty": "45.0000"
+    },
+    {
+      "id": 202253,
+      "warehouse": {
+        "id": 9798,
+        "name": "Cochabamba"
+      },
+      "product": {
+        "id": 243740,
+        "code": "BCan-10kg",
+        "name": "Belcan 10kg",
+        "for_sale": true,
+        "for_purchase": true,
+        "show_stock": true,
+        "min_stock": "5.0000"
+      },
+      "qty": "102.0000"
+    },
+    {
+      "id": 202252,
+      "warehouse": {
+        "id": 9797,
+        "name": "Santa Cruz"
+      },
+      "product": {
+        "id": 243739,
+        "code": "RC-10kg",
+        "name": "Royal Canin 10kg",
+        "for_sale": true,
+        "for_purchase": true,
+        "show_stock": true,
+        "min_stock": "5.0000"
+      },
+      "qty": "19.0000"
+    },
+    {
+      "id": 202251,
+      "warehouse": {
+        "id": 9798,
+        "name": "Cochabamba"
+      },
+      "product": {
+        "id": 239914,
+        "code": "RC-20kg",
+        "name": "Royal Canin 20kg",
+        "for_sale": true,
+        "for_purchase": true,
+        "show_stock": true,
+        "min_stock": "5.0000"
+      },
+      "qty": "19.0000"
+    },
+    {
+      "id": 193939,
+      "warehouse": {
+        "id": 9797,
+        "name": "Santa Cruz"
+      },
+      "product": {
+        "id": 239914,
+        "code": "RC-20kg",
+        "name": "Royal Canin 20kg",
+        "for_sale": true,
+        "for_purchase": true,
+        "show_stock": true,
+        "min_stock": "5.0000"
+      },
+      "qty": "48.0000"
+    }
+  ],
+  "store": [
+    {
+      "id": 9798,
+      "name": "Cochabamba"
+    },
+    {
+      "id": 9797,
+      "name": "Santa Cruz"
+    }
   ],
   "profile": {
     "name": "typicode"
